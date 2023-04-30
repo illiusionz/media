@@ -1,9 +1,82 @@
 {
-    "users": [
-        {"id": 1, "name": "Myra"}
-    ],
-    "albums": [],
-    "photos": []
+  "users": [
+    {
+      "name": "Irene Goldner",
+      "id": 1
+    },
+    {
+      "name": "Marjorie Batz",
+      "id": 2
+    },
+    {
+      "name": "Alonzo Kessler",
+      "id": 3
+    },
+    {
+      "name": "Frank Durgan",
+      "id": 4
+    },
+    {
+      "name": "Lillie Beer II",
+      "id": 5
+    },
+    {
+      "name": "Ms. Dan Flatley",
+      "id": 6
+    },
+    {
+      "name": "Rosalie Kertzmann",
+      "id": 7
+    },
+    {
+      "name": "Whitney Kunze",
+      "id": 8
+    },
+    {
+      "name": "Melinda Predovic",
+      "id": 9
+    },
+    {
+      "name": "Terrell Dooley",
+      "id": 10
+    },
+    {
+      "name": "Vera Erdman",
+      "id": 11
+    },
+    {
+      "name": "Cristina Sauer",
+      "id": 12
+    },
+    {
+      "name": "Enrique Volkman",
+      "id": 13
+    },
+    {
+      "name": "Diane Kulas",
+      "id": 14
+    },
+    {
+      "name": "Florence Franey",
+      "id": 15
+    },
+    {
+      "name": "Allison O'Keefe",
+      "id": 16
+    },
+    {
+      "name": "Gary Stehr",
+      "id": 17
+    },
+    {
+      "name": "Mrs. Yolanda Runte",
+      "id": 18
+    },
+    {
+      "name": "Victor McGlynn",
+      "id": 19
+    }
+  ],
+  "albums": [],
+  "photos": []
 }
-
-
