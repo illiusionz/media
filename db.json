@@ -1,48 +1,12 @@
 {
   "users": [
     {
-      "name": "Janis Anderson",
-      "id": 2
-    },
-    {
-      "name": "Gustavo Schimmel",
-      "id": 3
-    },
-    {
-      "name": "Emanuel Hirthe",
+      "name": "Todd Greenfelder",
       "id": 5
     },
     {
-      "name": "Omar Price",
+      "name": "Oscar Nitzsche",
       "id": 6
-    },
-    {
-      "name": "Anne MacGyver",
-      "id": 7
-    },
-    {
-      "name": "Barry Bogisich",
-      "id": 8
-    },
-    {
-      "name": "Mr. Lindsey Mayer PhD",
-      "id": 9
-    },
-    {
-      "name": "Fred Bartoletti",
-      "id": 10
-    },
-    {
-      "name": "Loren Becker",
-      "id": 11
-    },
-    {
-      "name": "Hazel Crooks",
-      "id": 12
-    },
-    {
-      "name": "Ms. Barry Cronin Jr.",
-      "id": 13
     }
   ],
   "albums": [],
