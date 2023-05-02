@@ -23,9 +23,74 @@
   ],
   "albums": [
     {
-      "id" : 10,
+      "id": 10,
       "title": "Hiking Trip",
       "userId": 6
+    },
+    {
+      "userId": 6,
+      "title": "Small Frozen Bike",
+      "id": 11
+    },
+    {
+      "userId": 6,
+      "title": "Gorgeous Soft Gloves",
+      "id": 12
+    },
+    {
+      "userId": 6,
+      "title": "Gorgeous Concrete Soap",
+      "id": 13
+    },
+    {
+      "userId": 6,
+      "title": "Tasty Frozen Chips",
+      "id": 14
+    },
+    {
+      "userId": 6,
+      "title": "Bespoke Wooden Mouse",
+      "id": 15
+    },
+    {
+      "userId": 7,
+      "title": "Refined Plastic Car",
+      "id": 16
+    },
+    {
+      "userId": 6,
+      "title": "Handmade Plastic Shirt",
+      "id": 17
+    },
+    {
+      "userId": 6,
+      "title": "Intelligent Wooden Chair",
+      "id": 18
+    },
+    {
+      "userId": 6,
+      "title": "Bespoke Rubber Gloves",
+      "id": 19
+    },
+    {
+      "userId": 6,
+      "title": "Unbranded Granite Chicken",
+      "id": 20
+    },
+    {
+      "userId": 6,
+      "title": "Bespoke Metal Car",
+      "id": 21
+    },
+    {
+      "userId": 7,
+      "title": "Electronic Soft Soap",
+      "id": 22
+    },
+    {
+      "userId": 7,
+      "title": "Licensed Frozen Shirt",
+      "id": 23
     }
   ],
   "photos": []
