@@ -5,18 +5,6 @@
       "id": 6
     },
     {
-      "name": "Milton Romaguera",
-      "id": 7
-    },
-    {
-      "name": "Marion Heaney",
-      "id": 8
-    },
-    {
-      "name": "Frances Cummerata",
-      "id": 9
-    },
-    {
       "name": "Carlton Gerlach",
       "id": 10
     }
@@ -24,28 +12,8 @@
   "albums": [
     {
       "userId": 6,
-      "title": "Gorgeous Soft Gloves",
-      "id": 12
-    },
-    {
-      "userId": 6,
-      "title": "Gorgeous Concrete Soap",
-      "id": 13
-    },
-    {
-      "userId": 6,
-      "title": "Tasty Frozen Chips",
-      "id": 14
-    },
-    {
-      "userId": 6,
       "title": "Bespoke Wooden Mouse",
       "id": 15
-    },
-    {
-      "userId": 7,
-      "title": "Refined Plastic Car",
-      "id": 16
     },
     {
       "userId": 6,
@@ -53,59 +21,9 @@
       "id": 17
     },
     {
-      "userId": 6,
-      "title": "Intelligent Wooden Chair",
-      "id": 18
-    },
-    {
-      "userId": 6,
-      "title": "Bespoke Rubber Gloves",
-      "id": 19
-    },
-    {
-      "userId": 6,
-      "title": "Unbranded Granite Chicken",
-      "id": 20
-    },
-    {
-      "userId": 6,
-      "title": "Bespoke Metal Car",
-      "id": 21
-    },
-    {
-      "userId": 7,
-      "title": "Electronic Soft Soap",
-      "id": 22
-    },
-    {
-      "userId": 7,
-      "title": "Licensed Frozen Shirt",
-      "id": 23
-    },
-    {
-      "userId": 7,
-      "title": "Elegant Granite Pizza",
-      "id": 24
-    },
-    {
       "userId": 10,
       "title": "Rustic Concrete Mouse",
       "id": 25
-    },
-    {
-      "userId": 10,
-      "title": "Sleek Frozen Table",
-      "id": 26
-    },
-    {
-      "userId": 9,
-      "title": "Handmade Metal Bacon",
-      "id": 27
-    },
-    {
-      "userId": 9,
-      "title": "Oriental Metal Shirt",
-      "id": 28
     }
   ],
   "photos": []
