@@ -3,64 +3,50 @@
     {
       "name": "Oscar Nitzsche",
       "id": 6
-    },
-    {
-      "name": "Carlton Gerlach",
-      "id": 10
     }
   ],
   "albums": [
     {
       "userId": 6,
-      "title": "Bespoke Wooden Mouse",
-      "id": 15
+      "title": "Refined Fresh Bike",
+      "id": 1
     },
     {
       "userId": 6,
-      "title": "Handmade Plastic Shirt",
-      "id": 17
+      "title": "Modern Granite Fish",
+      "id": 2
     },
     {
-      "userId": 10,
-      "title": "Rustic Concrete Mouse",
-      "id": 25
+      "userId": 6,
+      "title": "Recycled Granite Shoes",
+      "id": 3
     }
   ],
   "photos": [
     {
-      "albumId": 25,
-      "url": "https://loremflickr.com/150/150/abstract?lock=87468",
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8106",
       "id": 1
     },
     {
-      "albumId": 25,
-      "url": "https://loremflickr.com/150/150/abstract?lock=28165",
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=91405",
       "id": 2
     },
     {
-      "albumId": 25,
-      "url": "https://loremflickr.com/150/150/abstract?lock=18427",
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=86569",
       "id": 3
     },
     {
-      "albumId": 15,
-      "url": "https://loremflickr.com/150/150/abstract?lock=19268",
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=22448",
       "id": 4
     },
     {
-      "albumId": 15,
-      "url": "https://loremflickr.com/150/150/abstract?lock=57518",
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=13640",
       "id": 5
-    },
-    {
-      "albumId": 15,
-      "url": "https://loremflickr.com/150/150/abstract?lock=54379",
-      "id": 6
-    },
-    {
-      "albumId": 15,
-      "url": "https://loremflickr.com/150/150/abstract?lock=92633",
-      "id": 7
     }
   ]
 }
